@@ -61,7 +61,7 @@ Feature importance (Random Forest)
 
 Customer churn probability ranking
 
-Target top X% high-risk customers for retention offers
+Target top 10% high-risk customers for retention offers
 
 📊 Results
 
